@@ -2,6 +2,8 @@
 
 Builder, tinkerer, and lifelong learner. By day I'm a researcher at the University of Miami — by night I build things that scratch my own itch.
 
+"My only goal is to make something that I like." - Rick Rubin
+
 ## What I'm Working On
 
 **[Council of Elders](https://github.com/joonchungpersonal-dev/council-of-elders)** — A personal AI advisory board of history's greatest minds. Ask Marcus Aurelius, Hypatia, or Rumi for advice. 101 elders spanning every inhabited continent and 4,000 years of history, with personality-driven responses, roundtable debates, and a desktop app. Runs 100% locally with Ollama for full privacy, or connects to cloud LLM APIs (OpenAI, Anthropic, Google Gemini) for faster responses.
