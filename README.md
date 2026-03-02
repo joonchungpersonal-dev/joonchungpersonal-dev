@@ -14,8 +14,6 @@ Builder, tinkerer, and lifelong learner. By day I'm a researcher at the Universi
 
 **[BJJ Brain](https://github.com/joonchungpersonal-dev/bjj-brain)** — Pipeline and API for turning BJJ instructional video transcripts into a structured, searchable knowledge base. 2,900+ techniques from Danaher and Gordon Ryan instructionals. FastAPI + FAISS + SQLite.
 
-**[Veracity Claudit](https://github.com/joonchungpersonal-dev/veracity-claudit)** — Biomedical scientific integrity verification system. AI-powered veracity auditing validated against the Retraction Watch database.
-
 ## Academic Work
 
 My research in sleep science, NLP, and health data science lives at **[@chung-lab-miami](https://github.com/chung-lab-miami)**:
