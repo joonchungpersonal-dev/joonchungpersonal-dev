@@ -6,16 +6,23 @@ Builder, tinkerer, and lifelong learner. By day I'm a researcher at the Universi
 
 ## What I'm Working On
 
-**[Council of Elders](https://github.com/joonchungpersonal-dev/council-of-elders)** — A personal AI advisory board of history's greatest minds. Ask Marcus Aurelius, Hypatia, or Rumi for advice. 101 elders spanning every inhabited continent and 4,000 years of history, with personality-driven responses, roundtable debates, and a desktop app. Runs 100% locally with Ollama for full privacy, or connects to cloud LLM APIs (OpenAI, Anthropic, Google Gemini) for faster responses.
+**[Claude Code Skills](https://github.com/joonchungpersonal-dev/claude-skills)** — Open-source custom skills for Claude Code: `/veracity-tweaked-555` (16-agent parallel fact-checking), `/grill` (adversarial 2-phase code review with OWASP scoring), `/context-engineer` (context window overflow prevention), `/mental-models` (Munger's 35-model decision checklist), and more. Includes a [community audit of 247 skills](https://github.com/joonchungpersonal-dev/claude-skills/tree/main/external-audits/results) across 4 major repos.
 
-**[BJJ Brain](https://github.com/joonchungpersonal-dev/bjj-brain)** — Pipeline and API for turning BJJ instructional video transcripts into a structured, searchable knowledge base. 2,900+ techniques from Danaher and Gordon Ryan instructionals.
+**[Council of Elders](https://github.com/joonchungpersonal-dev/council-of-elders-public)** — A multi-agent AI advisory board of 101 historical figures. Ask Marcus Aurelius, Hypatia, or Rumi for advice. Personality-driven responses, roundtable debates, maverick dissent, and a desktop app. Runs locally with Ollama or connects to cloud APIs (OpenAI, Anthropic, Google Gemini).
 
-**[Veracity Audit System](https://github.com/joonchungpersonal-dev/veracity-audit-system)** — Multi-agent fact-checking system built as [Claude Code](https://docs.anthropic.com/en/docs/claude-code) custom skills. Decomposes documents into atomic claims ([SAFE](https://arxiv.org/abs/2403.18802)), then verifies each through 3 waves of 5 parallel agents. Includes a [MOST](https://doi.org/10.1007/978-3-319-72206-1_1) factorial optimization experiment to determine which agents actually matter.
+**[BJJ Brain](https://github.com/joonchungpersonal-dev/bjj-brain)** — Pipeline and API for turning BJJ instructional video transcripts into a structured, searchable knowledge base. 2,900+ techniques from Danaher and Gordon Ryan instructionals. FastAPI + FAISS + SQLite.
+
+**[Veracity Claudit](https://github.com/joonchungpersonal-dev/veracity-claudit)** — Biomedical scientific integrity verification system. AI-powered veracity auditing validated against the Retraction Watch database.
 
 ## Academic Work
 
-My research in sleep science, NLP, and health data science lives at **[@chung-lab-miami](https://github.com/chung-lab-miami)**.
+My research in sleep science, NLP, and health data science lives at **[@chung-lab-miami](https://github.com/chung-lab-miami)**:
+
+- **[Sleep Clusters & Mortality](https://github.com/chung-lab-miami/sleep-clusters-mesa)** — K-means clustering of 28 actigraphy variables → two sleep phenotypes with 39% mortality difference. Published in [SLEEP (2023)](https://doi.org/10.1093/sleep/zsad048).
+- **[PCA Sleep Scores](https://github.com/chung-lab-miami/pca-sleep-scores)** — 13-variable composite score that outperforms any individual sleep metric for mortality prediction (C=0.617). Adopted for a GWAS at N=413,904 in [Communications Biology (2025)](https://doi.org/10.1038/s42003-025-07514-0).
+- **[Sleep in the News](https://github.com/chung-lab-miami/sleep-newspapers-textmining)** — Structural topic modeling of 25,766 U.S. newspaper articles on sleep (1983–2017). 70 topics, frame analysis.
 
 ## Links
 
+- Website: [joonchungpersonal-dev.github.io](https://joonchungpersonal-dev.github.io)
 - Research: [github.com/chung-lab-miami](https://github.com/chung-lab-miami)
