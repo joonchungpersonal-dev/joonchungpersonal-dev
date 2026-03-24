@@ -8,11 +8,13 @@ Builder, tinkerer, and lifelong learner. By day I'm a researcher at the Universi
 
 **[Veracity Skills](https://github.com/joonchungpersonal-dev/veracity-skills)** — Multi-agent verification skills for Claude Code: `/veracity-tweaked-555` (16-agent parallel fact-checking), `/context-engineer` (context window overflow prevention), `/readme-audit` (README drift detection). Includes a [community audit of 247 skills](https://github.com/joonchungpersonal-dev/veracity-skills/tree/main/external-audits/results) across 4 major repos.
 
-**[Misc Skills](https://github.com/joonchungpersonal-dev/misc-skills)** — Additional Claude Code skills: `/mental-models` (Munger's 35-model decision checklist).
-
 **[Council of Elders](https://github.com/joonchungpersonal-dev/council-of-elders-public)** — A multi-agent AI advisory board of 101 historical figures. Ask Marcus Aurelius, Hypatia, or Rumi for advice. Personality-driven responses, roundtable debates, maverick dissent, and a desktop app. Runs locally with Ollama or connects to cloud APIs (OpenAI, Anthropic, Google Gemini).
 
+**[Claude Skills](https://github.com/joonchungpersonal-dev/claude-skills)** — 60+ Claude Code custom skills for code review, scientific writing, marketing, optimization, and more. Includes `/grill` (adversarial code review with OWASP scoring), `/peer-review` (multi-agent manuscript review), `/deep-research`, and `/optimize`.
+
 **[BJJ Brain](https://github.com/joonchungpersonal-dev/bjj-brain)** — Pipeline and API for turning BJJ instructional video transcripts into a structured, searchable knowledge base. 2,900+ techniques from Danaher and Gordon Ryan instructionals. FastAPI + FAISS + SQLite.
+
+**[DeckTimer](https://github.com/joonchungpersonal-dev/decktimer)** — Elgato Stream Deck-style breathing & wellness timer with pixel-art animations. Evidence-based protocols (cyclic sighing, coherence, physiological sigh, box breathing), Pomodoro with breathwork bookends, and a macOS menu bar timer. [Try it live.](https://decktimer-web.vercel.app/app)
 
 ## Academic Work
 
