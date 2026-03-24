@@ -8,7 +8,7 @@ Builder, tinkerer, and lifelong learner. By day I'm a researcher at the Universi
 
 **[DeckTimer](https://github.com/joonchungpersonal-dev/council-of-elders)** — An Elgato Stream Deck-style breathing & wellness timer. Evidence-based protocols (cyclic sighing, coherence, physiological sigh, box breathing) with pixel-art animations — a golden retriever walking hills, city skylines with windows that light up with your breath, retro trains and mountain goats. Built-in Pomodoro with breathwork bookends, playlist builder, and a macOS menu bar timer. Electron + vanilla JS.
 
-**[Retro Breathe](https://retro-breathe-site.vercel.app)** — SNES-style breathing visualizations. Mountain goat side-scroller, constellation mapper, city skyline, heartbeat monitor. Designed to make HRV breathing so visually captivating you actually do it. YouTube/TikTok content pipeline included.
+**[Retro Breathe](https://retro-breathe-site.vercel.app)** — SNES-style breathing visualizations. Mountain goat side-scroller, constellation mapper, city skyline, heartbeat monitor. Designed to make HRV breathing so visually captivating you actually do it.
 
 **[Veracity Skills](https://github.com/joonchungpersonal-dev/veracity-skills)** — Multi-agent verification skills for Claude Code: `/veracity-tweaked-555` (16-agent parallel fact-checking), `/context-engineer` (context window overflow prevention), `/readme-audit` (README drift detection). Includes a [community audit of 247 skills](https://github.com/joonchungpersonal-dev/veracity-skills/tree/main/external-audits/results) across 4 major repos.
 
