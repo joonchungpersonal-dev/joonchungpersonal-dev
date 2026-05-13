@@ -2,8 +2,6 @@
 
 Builder, tinkerer, and lifelong learner. By day I'm a researcher at the University of Miami — by night I build things that scratch my own itch.
 
-"My only goal is to make something that I like." - Rick Rubin
-
 ## What I'm Working On
 
 **[Veracity Skills](https://github.com/joonchungpersonal-dev/veracity-skills)** — Multi-agent verification skills for Claude Code: `/veracity-tweaked-555` (16-agent parallel fact-checking), `/context-engineer` (context window overflow prevention), `/readme-audit` (README drift detection). Includes a [community audit of 247 skills](https://github.com/joonchungpersonal-dev/veracity-skills/tree/main/external-audits/results) across 4 major repos.
